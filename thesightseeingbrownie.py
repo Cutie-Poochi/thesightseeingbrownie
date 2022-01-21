@@ -7,8 +7,9 @@ import math
 import numpy as np
 import os
 import random
+import sys
 
-token = "Njg3NjE4NTEwMjgwODUxNDk3.XmoYpA.EgWeicaOkeinPw9Txq-wW4S-qMU"
+token = sys.argv[1]
 dataChannelId = 904777404155842601
 data = {}
 client = discord.Client()
