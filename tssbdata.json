@@ -1,0 +1,20 @@
+{
+  "startMessage": "Chaos is a ladder.",
+  "endMessage": "\ud83c\udf75",
+  "toggleEndMessage": [
+    "global"
+  ],
+  "status": "Even God fears taxes.",
+  "admins": [
+    "535031091229229056",
+    "608649945699844107"
+  ],
+  "globalPrefixes": [
+    "b!"
+  ],
+  "userPrefixes": {
+    "535031091229229056": [
+      "b!"
+    ]
+  }
+}
